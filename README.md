@@ -9,7 +9,7 @@ I'm a tech leader passionate about building impactful products and growing engin
 - Mentoring engineering teams
 - Bridging technology and business strategy
 
-Let's connect and build something amazing together: [Join my newsletter](https://fullstackventures.site/)
+Let's connect and build something amazing together: [Join my newsletter](https://fullstackventures.substack.com/)
 <!---
 thevishnupradeep/thevishnupradeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
